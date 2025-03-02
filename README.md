@@ -2,7 +2,7 @@ Name: Chidell Siri Chandana
 Project: Personal Portfolio Website using HTML & CSS
 Company: CodSoft
 ID:CS25RY10613
-Web Devlopment:
+Domain:Web Devlopment
 Duration:Feb 15 - March 15
 
 Overview of the Project
